@@ -7,7 +7,7 @@ public class Main {
         int x = 2;
         float y = 3.14f;
         float sum = x + y;
-                
+               
         System.out.println(sum);
 
         String suma=("Suma cifrelor x si y este:" +(sum));
