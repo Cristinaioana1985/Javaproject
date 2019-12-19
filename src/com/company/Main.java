@@ -5,13 +5,15 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world");
         int x = 2;
-        int y = 3;
-        int sum = x + y;
+        float y = 3.14f;
+        float sum = x + y;
+                
         System.out.println(sum);
 
-        String suma=("Prima suma in Java este:" +(sum));
+        String suma=("Suma cifrelor x si y este:" +(sum));
 
         System.out.println(suma);
+
 
     }
 }
