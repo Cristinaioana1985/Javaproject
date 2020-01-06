@@ -50,7 +50,5 @@ public class Main {
         float operation4= (o-u);
         System.out.println ("Suma operatiei 5+15/3*2-8%3 este:" +(operation4));
 
-
-
            }
 }
