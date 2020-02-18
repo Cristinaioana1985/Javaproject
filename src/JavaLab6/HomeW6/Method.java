@@ -70,7 +70,28 @@ public class Method {
         System.out.println(Collections.max(numberlist));
 
    }
+//    Optional 1: Scrieti o metoda Java care sa schimbe pozitia a doua elemente intr-o Lista.
+    public void showlist9(List<String> stringList) {
+        Collections.swap(stringList, 1, 4);
+        System.out.println(stringList);
+    }
+
+
+//   Optional 2: Scrieti o metoda Java care sa primeasca o Lista si sa
+//   returneze o alta lista, care sa contina doar numerele pare din lista primita
+
+    public void showlist10(List<Integer> numberlist2) {
+//        for (int i = ; i<numberlist2.size(); i++) {
+//        int even=numberlist2.get(i)%2;
+//             System.out.println((even));
+
+//    }
+
+    }
+
 }
+
+
 
 
 
